@@ -1,4 +1,6 @@
-# Airbnb JavaScript Style Guide() {
+# BrightBytes JavaScript Style Guide() {
+
+### Fork of https://github.com/airbnb/javascript
 
 *A mostly reasonable approach to JavaScript*
 
